@@ -62,7 +62,7 @@ namespace RuntimeInstantiation
 
             // If we need to select from a group of related processors or chain together multiple processors or choose based on file contents,
             // you can use a bus to select/retrieve the appropriate handler(s).
-            // For an example of this in action, follow the _machineFileGenerationBus field which features a constructor-injected bus to the automation execution engine.
+            // For an example of this in action, follow the _machineFileGenerationBus field in HOWIE/Verto's Automation solution which features a constructor-injected bus to the automation execution engine.
 
         }
     }
