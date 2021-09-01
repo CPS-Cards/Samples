@@ -14,7 +14,7 @@ namespace RuntimeInstantiation
             var helloFreshInstantiationTypeName = nameof(ProcessHelloFresh);
             var merrickInstantiationTypeName = nameof(ProcessMerrick);
 
-            Console.WriteLine("I am classless.");
+            Console.WriteLine("I am called without instiantiation.");
 
             // classless method call, no instantiation necessary.
             Console.WriteLine(ToBeInstantiated.GetStaticMessage());
