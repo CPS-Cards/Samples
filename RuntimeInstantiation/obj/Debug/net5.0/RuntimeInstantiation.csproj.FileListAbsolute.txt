@@ -1,4 +1,3 @@
-C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.csprojAssemblyReference.cache
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.AssemblyInfoInputs.cache
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\Run
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\ref\RuntimeInstantiation.dll
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.pdb
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.genruntimeconfig.cache
+C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiation\obj\Debug\net5.0\RuntimeInstantiation.csproj.AssemblyReference.cache

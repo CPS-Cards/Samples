@@ -1,0 +1,10 @@
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\netstandard2.1\MyPCL.deps.json
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\netstandard2.1\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\netstandard2.1\MyPCL.pdb
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.csproj.AssemblyReference.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.AssemblyInfoInputs.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.AssemblyInfo.cs
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.csproj.CoreCompileInputs.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\netstandard2.1\MyPCL.pdb

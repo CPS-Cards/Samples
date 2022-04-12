@@ -1,0 +1,15 @@
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\MyPCL.deps.json
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\MyPCL.runtimeconfig.json
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\MyPCL.runtimeconfig.dev.json
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\ref\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\bin\Debug\net5.0\MyPCL.pdb
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.csproj.AssemblyReference.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.AssemblyInfoInputs.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.AssemblyInfo.cs
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.csproj.CoreCompileInputs.cache
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\ref\MyPCL.dll
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.pdb
+C:\Users\jkritzer\source\repos\Samples\MyPCL\obj\Debug\net5.0\MyPCL.genruntimeconfig.cache

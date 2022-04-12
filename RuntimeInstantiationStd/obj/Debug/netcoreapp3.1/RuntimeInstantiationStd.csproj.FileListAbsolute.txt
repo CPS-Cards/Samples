@@ -4,10 +4,11 @@ C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\bin\Debug\netcore
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\bin\Debug\netcoreapp3.1\RuntimeInstantiationStd.runtimeconfig.dev.json
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\bin\Debug\netcoreapp3.1\RuntimeInstantiationStd.dll
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\bin\Debug\netcoreapp3.1\RuntimeInstantiationStd.pdb
-C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.csprojAssemblyReference.cache
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.AssemblyInfoInputs.cache
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.AssemblyInfo.cs
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.csproj.CoreCompileInputs.cache
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.dll
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.pdb
 C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.genruntimeconfig.cache
+C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.csproj.AssemblyReference.cache
+C:\Users\jkritzer\source\repos\Samples\RuntimeInstantiationStd\obj\Debug\netcoreapp3.1\RuntimeInstantiationStd.GeneratedMSBuildEditorConfig.editorconfig
